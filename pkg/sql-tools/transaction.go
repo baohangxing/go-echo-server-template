@@ -1,7 +1,7 @@
 package sqlTools
 
 import (
-	"github.com/dzungtran/echo-rest-api/infrastructure/datastore"
+	"github.com/baohangxing/go-echo-server-template/infrastructure/datastore"
 	"github.com/jmoiron/sqlx"
 )
 

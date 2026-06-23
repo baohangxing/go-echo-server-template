@@ -1,10 +1,10 @@
 package handlers
 
 import (
-	"github.com/dzungtran/echo-rest-api/modules/core/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
-	"github.com/dzungtran/echo-rest-api/pkg/wrapper"
+	"github.com/baohangxing/go-echo-server-template/modules/core/usecases"
+	"github.com/baohangxing/go-echo-server-template/pkg/contexts"
+	"github.com/baohangxing/go-echo-server-template/pkg/middlewares"
+	"github.com/baohangxing/go-echo-server-template/pkg/wrapper"
 	"github.com/labstack/echo/v4"
 )
 

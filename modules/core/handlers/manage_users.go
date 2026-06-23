@@ -5,12 +5,12 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/pkg/authz"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
-	"github.com/dzungtran/echo-rest-api/pkg/wrapper"
+	"github.com/baohangxing/go-echo-server-template/modules/core/domains"
+	"github.com/baohangxing/go-echo-server-template/modules/core/dto"
+	"github.com/baohangxing/go-echo-server-template/pkg/authz"
+	"github.com/baohangxing/go-echo-server-template/pkg/constants"
+	"github.com/baohangxing/go-echo-server-template/pkg/utils"
+	"github.com/baohangxing/go-echo-server-template/pkg/wrapper"
 	"github.com/labstack/echo/v4"
 )
 

@@ -5,7 +5,7 @@ A Golang RESTful API boilerplate based on Echo framework v4. Includes tools for 
 Any feedback and pull requests are welcome and highly appreciated. Feel free to open issues for comments and discussions.
 
 <!--toc-->
-- [Echo REST API Boilerplate](#echo-rest-api-boilerplate)
+- [Echo REST API Boilerplate](#go-echo-server-template-boilerplate)
   - [How to Use This Template](#how-to-use-this-template)
   - [Overview](#overview)
   - [Features](#features)
@@ -28,9 +28,9 @@ Any feedback and pull requests are welcome and highly appreciated. Feel free to 
 
 ## How to Use This Template
 
-> **DO NOT FORK** - This template is meant to be used via the **[Use this template](https://github.com/dzungtran/echo-rest-api/generate)** feature.
+> **DO NOT FORK** - This template is meant to be used via the **[Use this template](https://github.com/baohangxing/go-echo-server-template/generate)** feature.
 
-1. Click on **[Use this template](https://github.com/dzungtran/echo-rest-api/generate)**
+1. Click on **[Use this template](https://github.com/baohangxing/go-echo-server-template/generate)**
 2. Give your project a name (recommend all lowercase with underscores, e.g., `my_awesome_project`)
 3. Wait until the first CI run finishes (GitHub Actions will process the template and commit to your new repo)
 4. Clone your new project and start coding!

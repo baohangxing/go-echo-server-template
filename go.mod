@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/baohangxing/go-echo-server-template
 
 go 1.25.0
 
